@@ -27,7 +27,7 @@ public class oper02 {
         /*int a =10;
         int b =--a; // pre increment
         System.out.println(b); //output : 9
-        
+
          */
 
 
