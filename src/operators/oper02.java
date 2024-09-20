@@ -19,15 +19,17 @@ public class oper02 {
         System.out.println(b); //output : 10
 
         */
-        // Case 3: Pre increment
-        /* int a =10;
+        //Case 3: Pre increment
+         int a =10;
         int b =++a; // pre increment
         System.out.println(b); //output : 11
 
-        int a =10;
+        /*int a =10;
         int b =--a; // pre increment
         System.out.println(b); //output : 9
+        
          */
+
 
 
 
